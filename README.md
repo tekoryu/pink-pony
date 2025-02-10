@@ -1,2 +1,2 @@
 # pink-pony
-Script to process text
+Scripts to PDF text extracting.
